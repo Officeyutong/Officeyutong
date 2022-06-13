@@ -1,8 +1,6 @@
 ### Hi there 👋
 ![Github Snake Light](https://officeyutong.github.io/Officeyutong/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![Github Snake Dark](https://officeyutong.github.io/Officeyutong/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 
 ![](https://github-readme-stats.vercel.app/api?username=Officeyutong&show_icons=true&theme=material-palenight)
 
