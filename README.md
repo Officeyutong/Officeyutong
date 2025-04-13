@@ -2,10 +2,6 @@
 ![Github Snake Light](https://officeyutong.github.io/Officeyutong/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-![](https://github-readme-stats.vercel.app/api?username=Officeyutong&show_icons=true&theme=material-palenight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Officeyutong&layout=compact&theme=material-palenight)
-
 <!--
 **Officeyutong/Officeyutong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
